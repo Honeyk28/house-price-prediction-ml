@@ -68,8 +68,8 @@ The model was evaluated using:
 ```text
 house-price-prediction-ml/
 │
+├── README.md 
 ├── task1_ml_linear_regression.ipynb
-├── README.md
 ├── requirements.txt
 ├── house_price_model.pkl
 ├── images/
